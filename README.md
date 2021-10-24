@@ -6,7 +6,7 @@ If .vim and .vimrc exist and you want to back them up:
 
 ```
 mkdir $HOME/backupofvimconfigs 
-sudo mv  vim-config/.vim vim-config/.vimrc $HOME/
+sudo mv  $HOME/.vim $HOME/.vimrc $HOME/backupofvimconfigs 
 ```
 
 If you want to delete them:
