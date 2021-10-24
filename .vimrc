@@ -58,7 +58,7 @@ highlight Normal ctermbg=NONE
 highlight nonText ctermbg=NONE
 set colorcolumn=90
 set number
-let mapleader="\\"
+let mapleader=","
 map <leader>s :source ~/.vimrc<CR>
 set hidden
 set history=100
